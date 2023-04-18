@@ -1,0 +1,44 @@
+body{
+    background-image: url("https://wallpaperaccess.com/full/8464664.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.header{
+    border-radius: 50px 250px;
+    background-image: linear-gradient(to right, rgb(40, 241, 204) , yellow , rgb(40, 241, 204));
+    background-position: center;
+    font-size: 90%;
+    text-align:center;
+    border: 2px solid black;
+    margin: 12px;
+}
+h2{
+    background-image: linear-gradient(to right, red , yellow);
+    color: rgb(77, 29, 222);
+    background-position: center;
+    border: 2px solid black;
+    border-radius: 50px 250px;
+    background-color: #1fe032;
+    margin: 12px;
+    font-style: italic;
+    text-align: center;
+    
+}
+img{
+    margin: 5px;
+    padding-left: 200px;
+    width: 65%;
+    height: auto;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h3{
+    border-radius: 50px 250px;
+    background-image: linear-gradient(to right, red , yellow);
+    color: rgb(77, 29, 222);
+    background-position: center;
+    border: 2px solid black;
+    margin: 12px;
+    text-align: center;
+}
